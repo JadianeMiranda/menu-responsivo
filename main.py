@@ -15,7 +15,7 @@ print("|   201     |     Chá Gelado       |  R$4,00        |")
 print("-----------------------------------------------------")
 
 # recebe o valor da conta do cliente e a escolha de pedir algo a mais.
-total_ru = 0  # variávelnomeada com o identificador pessoal ru4464635
+total_ru = 0  
 escolha = "s"
 
 # o loop verifica atraves de if,elif e else se o código digitado pelo cliente é correspondete ao preço no cardápio
